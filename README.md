@@ -1,2 +1,2 @@
-# threat-intelligence-platform
-Repo for UNSW's cybersecurity cohort's cybersecurity threat intelligence platform project.
+# threat-intelligence-dashboard
+Repo for UNSW's cybersecurity cohort's cybersecurity threat intelligence dashboard project.
