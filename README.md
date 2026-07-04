@@ -1,4 +1,4 @@
-# Threat Intelligence Dashboard
+# Security Analysis Platform
 
 ## Contributors
 - Member
